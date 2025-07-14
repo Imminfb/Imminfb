@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou a Yasmin! 👋
 
-<!--
-**Imminfb/Imminfb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonada por tecnologia e desenvolvimento de software  
+🚀 Buscando minha primeira oportunidade como desenvolvedora  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo:
+- HTML5, CSS3
+- JavaScript
+- C#
+- MySQL
+- Git e GitHub
+- Unity (GameDev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque:
+| Projeto | Descrição | Tecnologias |
+|--------|------------|-------------|
+| [Strawberry Rush 🍓](https://github.com/Imminfb/PortfolioGameDev.git) | Jogo de plataforma 2D com traps e HUD | Unity, C# |
+
+## 📫 Contato
+- [LinkedIn](www.linkedin.com/in/minfreitas)
+- yasminfmsilva@gmail.com
