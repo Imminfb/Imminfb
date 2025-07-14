@@ -1,4 +1,4 @@
-# Olá, eu sou a Yasmin! 👋
+# Olá, sou a Yasmin Freitas!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonada por tecnologia e desenvolvimento de software  
