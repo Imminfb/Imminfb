@@ -1,10 +1,10 @@
 # Olá, sou a Yasmin Freitas!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Formada em Análise e Desenvolvimento de Sistemas  
 💻 Apaixonada por tecnologia e desenvolvimento de software  
 🚀 Buscando minha primeira oportunidade como desenvolvedora  
 
-## 🚀 Tecnologias que estou aprendendo:
+## 🚀 Tecnologias que aprendi:
 - HTML5, CSS3
 - JavaScript
 - C#
